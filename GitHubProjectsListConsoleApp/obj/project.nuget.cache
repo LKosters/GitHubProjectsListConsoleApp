@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Vo+DchlYqs=",
+  "success": true,
+  "projectFilePath": "/Users/laurenskosters/RiderProjects/GitHubProjectsListConsoleApp/GitHubProjectsListConsoleApp/GitHubProjectsListConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/laurenskosters/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
